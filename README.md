@@ -3,7 +3,10 @@
 ## Description 
 
 This is a refactor of the Horiseon website to meet accessibility standards
+ 
+The URL of the deployed application: https://icodespace.github.io/module-1-challenge/
 
+The URL of the GitHub repository: https://github.com/iCodeSpace/module-1-challenge
 
 ## Installation
 
