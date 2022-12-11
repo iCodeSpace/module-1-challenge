@@ -2,22 +2,18 @@
 
 ## Description 
 
-This is a refactor of the Horision website to meet accessibility standards
+This is a refactor of the Horiseon website to meet accessibility standards
 
 
 ## Installation
 
 N/A
 
-
 ## Usage 
 
 Screenshot of completed website
 
-```md
-![alt text](assets/images/screenshot.png)
-```
-
+![Screenshot](assets/images/screenshot.png)
 
 ## Credits
 
